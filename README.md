@@ -10,7 +10,7 @@ Engineering College, Chennai.
 CGPA: 8.01
 
 ## 🌐 Portfolio Website
-Visit my live portfolio here:
+Visit my live portfolio here: https://gopikababu67-lang.github.io/-gopikababu67.github.io-/
 
 
 ## 🎓 Education
