@@ -11,7 +11,7 @@ CGPA: 8.01
 
 ## 🌐 Portfolio Website
 Visit my live portfolio here:
-https://gopikababu67.github.io
+
 
 ## 🎓 Education
 - B.Tech AI and Data Science
